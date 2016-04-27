@@ -78,6 +78,21 @@ body {
   text-decoration: none;
 }
 
+.resume-link {
+  margin: .2em;
+  color: #4c72aa;
+}
+
+.resume-link:hover {
+  color: #9a9a9a;
+  text-decoration: none;
+}
+
+.resume-link:focus {
+  color: #9a9a9a;
+  text-decoration: none;
+}
+
 .about {
   font-weight: 200;
 }
