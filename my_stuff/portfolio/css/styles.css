@@ -64,7 +64,7 @@ body {
 }
 
 .contact {
-  margin: .5em;
+  margin: .2em;
   color: #555555;
 }
 
@@ -76,4 +76,8 @@ body {
 .contact:focus {
   color: #9a9a9a;
   text-decoration: none;
+}
+
+.about {
+  font-weight: 200;
 }
