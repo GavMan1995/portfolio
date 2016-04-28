@@ -56,8 +56,11 @@ body {
 }
 
 .resume-link {
-  margin: .2em;
+  margin: .4em;
+  padding: 5px;
   color: #4c72aa;
+  border: 1px solid  #9a9a9a;
+  border-radius: 10px;
 }
 
 .resume-link:hover {
